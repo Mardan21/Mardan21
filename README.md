@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Mardan21/Mardan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm Mardan
+### Hi there 👋 I'm Mardan!
 
 I am currently a third year student at UC Davis studying computer
 science. I enjoy learning abstract programming concepts in
