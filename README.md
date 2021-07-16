@@ -15,4 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Mardan
+### I'm Mardan
+
+I am currently a third year student at UC Davis studying computer
+science. I enjoy learning abstract programming concepts in
+my free time. Recently, I have been learning full stack web development
+on Udemy and enhancing my problem solving skills via LeetCode.
+
+## Work Experience
+
+⋅⋅* 04/2019 - 12/2019: Store Associate at In N' Out Burger
+
+⋅⋅⋅ ⋅⋅* Managed cash and sales transactions in dining facilities. My
+⋅⋅⋅ ⋅⋅⋅ responsibilities included promoting services, improving customer
+⋅⋅⋅ ⋅⋅⋅ satisfaction, answering to inquiries, reporting to the restaurant
+⋅⋅⋅ ⋅⋅⋅ manager, and greeting customers.
+
+⋅⋅⋅ ⋅⋅* Operated appropriate cleaning equipments and utilized proper
+⋅⋅⋅ ⋅⋅⋅ cleaning chemicals, safely
