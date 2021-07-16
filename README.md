@@ -59,6 +59,7 @@ on Udemy and enhancing my problem solving skills via LeetCode.
     <br>
     <ul>
       <li>Diablo Valley Hackers Club, President</li>
+      <br>
       <ul>
         <li>Organized and ran weekly club meetings.</li>
         <li>Taught members abstract programming concepts and how to apply
@@ -68,14 +69,18 @@ on Udemy and enhancing my problem solving skills via LeetCode.
         <li>Taught club members how to create interactive websites as a group
         project.</li>
       </ul>
+      <br>
       <li>DVC Math Club, Inter-Club Council (ICC) Representative</li>
+      <br>
       <ul>
         <li>Attended and participated in all Inter-Club Council (ICC) meetings
         and required events -- serving as the Math Club ambassador to the ICC.</li>
         <li>Collaborated with the club Secretary to report important Math Club
         information and meeting minutes to ICC executives.</li>
       </ul>
+      <br>
       <li>Programming Tutor</li>
+      <br>
       <ul>
         <li>Taught students fundamental programming concepts.</li>
         <li>Helped students with homework, guiding them through
