@@ -63,7 +63,7 @@ on Udemy and enhancing my problem solving skills via LeetCode.
         <li>Organized and ran weekly club meetings.</li>
         <li>Taught members abstract programming concepts and how to apply
         them when solving challenging coding problems.</li>
-        <li>Updated club <a href="http://www.dvhackers.com/>website</a> when
+        <li>Updated club <a href="http://www.dvhackers.com/">website</a> when
         necessary.</li>
         <li>Taught club members how to create interactive websites as a group
         project.</li>
