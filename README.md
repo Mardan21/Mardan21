@@ -39,10 +39,12 @@ on Udemy and enhancing my problem solving skills via LeetCode.
 ## Education
 <ul>
   <li>06/2021 - Present: University of California, Davis</li>
+  <br>
   <li>06/2019 - 05/2021: Diablo Valley College (DVC)</li>
   <br>
   <ul>
     <li>Key Courses</li>
+    <br>
     <ul>
       <li>COMSC 200 - Object Oriented Programming C++</li>
       <li>COMSC 210 - Data Structures and Algorithms</li>
@@ -52,7 +54,9 @@ on Udemy and enhancing my problem solving skills via LeetCode.
       <li>MATH 292 - Multivariable Calculus</li>
       <li>MATH 294 - Differential Equations</li>
     </ul>
+    <br>
     <li>Extracurricular Activities</li>
+    <br>
     <ul>
       <li>Diablo Valley Hackers Club, President</li>
       <ul>
