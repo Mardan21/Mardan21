@@ -25,6 +25,18 @@ on Udemy and enhancing my problem solving skills via LeetCode.
 <ul>
   <li>06/2021 - Present: University of California, Davis</li>
   <br>
+  <ul>
+    <li>Key Courses</li>
+    <br>
+    <ul>
+      <li>ECS 122A - Algorithm Design and Analysis</li>
+      <li>ECS 154A - Computer Architecture</li>
+      <li>LIN 177 - Computational Linguistics</li>
+      <li>MAT 145 - Combinatorics</li>
+      <li>PSC 120 = Agent-Based Modeling</li>
+    </ul>
+  </ul>
+  <br>
   <li>06/2019 - 05/2021: Diablo Valley College (DVC)</li>
   <br>
   <ul>
