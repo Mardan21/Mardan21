@@ -16,24 +16,25 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Mardan!
 
-I am currently a third year student at UC Davis studying computer
-science. I enjoy learning abstract programming concepts in
+I am a recent UC Davis computer
+science graduate. I enjoy learning abstract programming concepts in
 my free time. Recently, I have been learning full stack web development
 on Udemy and enhancing my problem solving skills via LeetCode.
 
 ## Education
 <ul>
-  <li>06/2021 - Present: University of California, Davis</li>
+  <li>06/2021 - 12/2023: University of California, Davis</li>
   <br>
   <ul>
     <li>Key Courses</li>
     <br>
     <ul>
       <li>ECS 122A - Algorithm Design and Analysis</li>
+      <li>ECS 150 - Operating Systems</li>
+      <li>ECS 140 - Programming Languages</li>
       <li>ECS 154A - Computer Architecture</li>
-      <li>LIN 177 - Computational Linguistics</li>
-      <li>MAT 145 - Combinatorics</li>
-      <li>PSC 120 = Agent-Based Modeling</li>
+      <li>ECS 171 - Machine Learning</li>
+      <li>ECS 175 - Computer Vision</li>
     </ul>
   </ul>
   <br>
@@ -48,7 +49,6 @@ on Udemy and enhancing my problem solving skills via LeetCode.
       <li>COMSC 260 - Assembly Language</li>
       <li>MATH 194 - Linear Algebra</li>
       <li>MATH 195 - Discrete Mathematics</li>
-      <li>MATH 292 - Multivariable Calculus</li>
       <li>MATH 294 - Differential Equations</li>
     </ul>
     <br>
