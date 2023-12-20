@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 ### Hi there 👋 I'm Mardan!
 
 I am a recent UC Davis computer
-science graduate. I enjoy learning abstract programming concepts in
-my free time. Recently, I have been learning full stack web development
-on Udemy and enhancing my problem solving skills via LeetCode.
+science graduate. 
 
 ## Education
 <ul>
