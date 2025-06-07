@@ -49,38 +49,6 @@ science graduate.
       <li>MATH 195 - Discrete Mathematics</li>
       <li>MATH 294 - Differential Equations</li>
     </ul>
-    <br>
-    <li>Extracurricular Activities</li>
-    <br>
-    <ul>
-      <li>Diablo Valley Hackers Club, President</li>
-      <br>
-      <ul>
-        <li>Organized and ran weekly club meetings.</li>
-        <li>Taught members abstract programming concepts and how to apply
-        them when solving challenging coding problems.</li>
-        <li>Updated club <a href="http://www.dvhackers.com/">website</a> when
-        necessary.</li>
-        <li>Taught club members how to create interactive websites as a group
-        project.</li>
-      </ul>
-      <br>
-      <li>DVC Math Club, Inter-Club Council (ICC) Representative</li>
-      <br>
-      <ul>
-        <li>Attended and participated in all Inter-Club Council (ICC) meetings
-        and required events -- serving as the Math Club ambassador to the ICC.</li>
-        <li>Collaborated with the club Secretary to report important Math Club
-        information and meeting minutes to ICC executives.</li>
-      </ul>
-      <br>
-      <li>Programming Tutor</li>
-      <br>
-      <ul>
-        <li>Taught students fundamental programming concepts.</li>
-        <li>Helped students with homework, guiding them through
-        problems step-by-step.</li>
-      </ul>
-    </ul>
+    
   </ul>
 </ul>
