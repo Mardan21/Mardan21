@@ -41,8 +41,8 @@ I'm a full-stack & data engineer currently pursuing my MS in Data Analytics Engi
 |--------|-------------|------|
 | [Injury Prediction System](https://github.com/Mardan21/player-injury-prevention-system) | End-to-end ML pipeline for injury risk using SHAP, TransferMarkt scraping, and feature engineering | Python, R, SQL, PostgreSQL |
 | [E-commerce Platform](https://github.com/Mardan21/ecommerce-admin) | Dual-app architecture with Stripe checkout & admin dashboard | Next.js, Prisma, MySQL |
-| [Reddit Uyghur Sentiment Analysis](https://github.com/Mardan21) | NLP-driven topic modeling and sentiment tracking across 16,000+ Reddit posts. Includes DistilBERT and t-SNE visualizations. | Python, SpaCy, Transformers |
-| [Amazon Review Sentiment Classifier](https://github.com/Mardan21) | Traditional ML pipeline for classifying 34K+ reviews using TF-IDF, SMOTE, and ensemble modeling. | scikit-learn, NLTK, Python |
+| [Reddit Uyghur Sentiment Analysis](https://github.com/Mardan21/reddit-uyghur-nlp-analysis) | NLP-driven topic modeling and sentiment tracking across 16,000+ Reddit posts. Includes DistilBERT and t-SNE visualizations. | Python, SpaCy, Transformers |
+| [Amazon Review Sentiment Classifier](https://github.com/Mardan21/amazon-sentiment-analysis) | Traditional ML pipeline for classifying 34K+ reviews using TF-IDF, SMOTE, and ensemble modeling. | scikit-learn, NLTK, Python |
 | Miras Archive (Private, In-Development) | Full-stack platform for Uyghur heritage records w/ searchable metadata & digitization | Next.js, Supabase |
 
 ---
