@@ -20,8 +20,7 @@ I'm a full-stack & data engineer currently pursuing my MS in Data Analytics Engi
 
 ## 🚀 What I'm Working On
 
-- **⚽ 343 Football** – Building a football analytics startup aimed at delivering machine learning–driven insights on players and teams through blog posts and visual breakdowns. Each post will link to the underlying GitHub repo. Future plans include an AI assistant trained on player data to answer football questions in real time.
-- **📚 Miras Uyghur Digital Archive** – Building a digital archive for Uyghur cultural preservation with OCR pipelines, searchable metadata, and a full-stack Supabase backend.
+- **⚽ 343 Football** – Building a football analytics startup aimed at delivering live statistics on players and teams through an end to end computer vision pipeline. Currently building POC and future plans include providing the service to local club and pick-up teams.
 - **🧠 Penalty Kick ML Modeling** – Developing machine learning models to predict optimal penalty shot placement, likely shooter behavior, and goalkeeper dive direction using GAIT analysis and historical penalty to model conversion trends and decision patterns.
 - **🛰️ NUHorizon: Embedded Software Engineering** – Implementing advanced onboard image compression and data handling systems for a CubeSat project.
 
