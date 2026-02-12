@@ -34,7 +34,6 @@ I'm a full-stack & data engineer currently pursuing my MS in Data Analytics Engi
 | [E-commerce Platform](https://github.com/Mardan21/ecommerce-admin) | Dual-app architecture with Stripe checkout & admin dashboard | Next.js, Prisma, MySQL |
 | [Reddit Uyghur Sentiment Analysis](https://github.com/Mardan21/reddit-uyghur-nlp-analysis) | NLP-driven topic modeling and sentiment tracking across 16,000+ Reddit posts. Includes DistilBERT and t-SNE visualizations. | Python, SpaCy, Transformers |
 | [Amazon Review Sentiment Classifier](https://github.com/Mardan21/amazon-sentiment-analysis) | Traditional ML pipeline for classifying 34K+ reviews using TF-IDF, SMOTE, and ensemble modeling. | scikit-learn, NLTK, Python |
-| Miras Archive (Private, In-Development) | Full-stack platform for Uyghur heritage records w/ searchable metadata & digitization | Next.js, Supabase |
 
 ---
 
