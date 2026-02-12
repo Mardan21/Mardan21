@@ -18,14 +18,6 @@ Here are some ideas to get you started:
 I'm a full-stack & data engineer currently pursuing my MS in Data Analytics Engineering at Northeastern University and a UC Davis CS alum. My work bridges software engineering, machine learning, and sports analytics — with a strong interest in building tools that are both technically sound and deeply human-centered. 
 ---
 
-## 🚀 What I'm Working On
-
-- **⚽ 343 Football** – Building a football analytics startup aimed at delivering live statistics on players and teams through an end to end computer vision pipeline. Currently building POC and future plans include providing the service to local club and pick-up teams.
-- **🧠 Penalty Kick ML Modeling** – Developing machine learning models to predict optimal penalty shot placement, likely shooter behavior, and goalkeeper dive direction using GAIT analysis and historical penalty to model conversion trends and decision patterns.
-- **🛰️ NUHorizon: Embedded Software Engineering** – Implementing advanced onboard image compression and data handling systems for a CubeSat project.
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages:** TypeScript, Python, SQL, Swift, C++, R  
